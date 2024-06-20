@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTierArchitecture.Entities", "NTierArchitecture.Entities\NTierArchitecture.Entities.csproj", "{0BBAAF42-8644-4626-86D4-9E5DE3633AAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTierArchitecture.DataAccess", "NTierArchitecture.DataAccess\NTierArchitecture.DataAccess.csproj", "{1D9E3500-6474-4484-AF97-3458EFD63746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BBAAF42-8644-4626-86D4-9E5DE3633AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBAAF42-8644-4626-86D4-9E5DE3633AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BBAAF42-8644-4626-86D4-9E5DE3633AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BBAAF42-8644-4626-86D4-9E5DE3633AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D9E3500-6474-4484-AF97-3458EFD63746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9E3500-6474-4484-AF97-3458EFD63746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9E3500-6474-4484-AF97-3458EFD63746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9E3500-6474-4484-AF97-3458EFD63746}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
